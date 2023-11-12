@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabina1262
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning PHP amd SQL.
+- 🌱 I’m currently learning PHP and SQL.
 - 💞️ I’m looking to collaborate on registration app for LARP players and organizers.
 - 📫 How to reach me via FB - Gabriela Houšková Benešová
 
